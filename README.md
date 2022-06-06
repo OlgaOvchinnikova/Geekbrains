@@ -1,2 +1,0 @@
-# Geekbrains
-Study
