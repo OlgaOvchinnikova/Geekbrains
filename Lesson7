@@ -30,8 +30,8 @@ class Lesson7 {
 
 class Cat {
     protected String name;
-    protected int appetite; // ability to eat for 1 time
-    protected boolean fullness; // satiety status
+    protected int appetite;
+    protected boolean fullness;
 
     Cat(String name, int appetite) {
         this.name = name;
